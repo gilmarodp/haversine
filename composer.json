@@ -1,0 +1,27 @@
+{
+    "name": "gilmarodp/haversine",
+    "description": "A PHP library to calculate distance between coordinates using the Haversine formula.",
+    "type": "library",
+    "license": "MIT",
+    "scripts": {
+        "test": "phpunit"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gilmarodp\\Haversine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilmar Oliveira",
+            "email": "gilmar.odp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "minimum-stability": "stable"
+}
