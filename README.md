@@ -17,6 +17,8 @@ composer require gilmarodp/haversine
 ## 📦 Usage
 
 ```php
+<?php
+
 require 'vendor/autoload.php'; // optional
 
 use Gilmarodp\Haversine\Point;
@@ -55,12 +57,6 @@ This static function returns the distance in meters between two points.
 
 🐘 PHP 7.4 or higher
 
-
-## 🧪 Testing
-
-```bash
-composer test
-```
 
 ## 👤 Author
 
