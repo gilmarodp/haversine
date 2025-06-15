@@ -16,6 +16,8 @@ composer require gilmarodp/haversine
 
 ## 📦 Usage
 
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ce6dc220-943b-4d0e-a131-2b3f1d25cd59" />
+
 ```php
 <?php
 
